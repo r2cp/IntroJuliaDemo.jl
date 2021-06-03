@@ -20,4 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/r2cp/IntroJuliaDemo.jl",
+    devbranch = "main"
 )
