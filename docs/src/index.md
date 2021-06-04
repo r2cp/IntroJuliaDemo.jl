@@ -4,7 +4,7 @@ CurrentModule = IntroJuliaDemo
 
 # IntroJuliaDemo
 
-Documentation for [IntroJuliaDemo](https://github.com/r2cp/IntroJuliaDemo.jl).
+Documentación para el paquete [IntroJuliaDemo](https://github.com/r2cp/IntroJuliaDemo.jl).
 
 ```@index
 ```
